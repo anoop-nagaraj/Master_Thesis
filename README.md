@@ -1,4 +1,4 @@
 # Master_Thesis
 
-#GUI
+# GUI
 ![System Diagram](docs/VBlooming_Panel.png)
